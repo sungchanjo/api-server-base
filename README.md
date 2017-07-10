@@ -1,7 +1,7 @@
 # api-server-base
 
 Simple api server bolierplate using express, log4js, babel, nodemon.
-VS Code configuration for debugging is included.
+VS Code configuration for debugging is enabled.
 
 
 ## How does it work?
